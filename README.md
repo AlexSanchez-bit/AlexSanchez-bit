@@ -28,7 +28,7 @@ Author: Señor
 
 ### 🧰 Technologies & Frameworks
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,angular,nextjs,react,vue,tailwind" />
   <img src="https://img.shields.io/badge/Actix%20Web-%230076D6.svg?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Gin%20Gonic-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
