@@ -1,9 +1,6 @@
 
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=500&color=00FFFF&center=true&vCenter=true&width=800&lines=Hi+there!+👋+I'm+Alex;Computer+Scientist+%F0%9F%94%8D;Cryptography+Enthusiast+%F0%9F%94%92;AI+and+Web+Developer+%F0%9F%A4%96" alt="Typing SVG" />
-</h1>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=Hi+there!+%F0%9F%91%8B+I'm+Alex;%3CComputer+Scientist++%3CCryptography+Enthusiast%3CAI+and+Web+Developer)](https://git.io/typing-svg)
 ---
 
 ### 🧠 About Me
