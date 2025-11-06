@@ -1,7 +1,5 @@
 
 <!--
-🔥 Dynamic GitHub Profile README
-Author: Señor
 -->
 
 <h1 align="center">
