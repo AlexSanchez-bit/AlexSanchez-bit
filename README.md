@@ -1,6 +1,4 @@
 
-<!--
--->
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=500&color=00FFFF&center=true&vCenter=true&width=800&lines=Hi+there!+👋+I'm+Señor;Computer+Scientist+%F0%9F%94%8D;Cryptography+Enthusiast+%F0%9F%94%92;AI+and+Web+Developer+%F0%9F%A4%96" alt="Typing SVG" />
