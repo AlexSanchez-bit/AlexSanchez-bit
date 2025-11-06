@@ -1,0 +1,50 @@
+# Security Configuration Guide
+
+## Introduction
+
+This guide provides an overview of security-related settings and configurations based on the exploration of the Red de Sobrevivientes web application and related studies. It aims to detail the navigation structure, interactive elements, and authentication mechanisms used within the application. The guide is intended for users seeking to understand the security configurations and settings of the application.
+
+## Navigation Structure
+
+The Red de Sobrevivientes web application comprises several unique pages that users can navigate through. The following URLs represent the main sections of the application:
+
+- Home: [https://red-sobrevivientes-web.netlify.app/#/](https://red-sobrevivientes-web.netlify.app/#/)
+- Sobre Nosotros: [https://red-sobrevivientes-web.netlify.app/#/us](https://red-sobrevivientes-web.netlify.app/#/us)
+- Blog: [https://red-sobrevivientes-web.netlify.app/#/blog](https://red-sobrevivientes-web.netlify.app/#/blog)
+- Estadísticas y Mapa: [https://red-sobrevivientes-web.netlify.app/#/map](https://red-sobrevivientes-web.netlify.app/#/map)
+- Haz una Donación: [https://red-sobrevivientes-web.netlify.app/#/donate](https://red-sobrevivientes-web.netlify.app/#/donate)
+
+### Key Features
+
+- **Introduction to the Organization**: Provides an overview of the organization's mission and activities.
+- **Call to Action for Survivors**: Includes options for survivors to share their stories or seek more information.
+- **Interactive Elements**: Features buttons like "Sí, soy Sobreviviente" and "No, pero quiero información" for user interaction.
+
+## Authentication Mechanisms
+
+### Graphical Authentication API
+
+The application utilizes a Passpoints-based graphical authentication system, which is designed to enhance security and usability compared to traditional alphanumeric passwords. This system is characterized by:
+
+- **Security and Ease of Use**: Provides a secure method for user authentication while being user-friendly.
+- **Adaptability**: The system is adaptable across various devices and screen resolutions, ensuring broad compatibility.
+
+### Implementation Details
+
+The implementation of the Passpoints system involves:
+
+- **Discretization Methods**: A comprehensive analysis of discretization methods was conducted to ensure effective translation into programming code.
+- **Device Compatibility**: Research was conducted to adapt the system to different screen resolutions and image sizes.
+
+## Access Restrictions and Limitations
+
+Certain navigation links within the application do not update the URL hash, which can lead to confusion when accessing specific content. For example:
+
+- **Nuestros Aliados and Comparte tu Historia**: These sections change content without updating the URL hash.
+- **Blog Page**: May display a message indicating "No hay nada que mostrar" when content is unavailable.
+
+## Summary
+
+This guide has outlined the security configurations and navigation structure of the Red de Sobrevivientes web application. The use of a Passpoints-based graphical authentication system enhances security and usability, while the navigation structure provides a comprehensive view of the application's main sections. Understanding these elements is crucial for effectively managing and configuring security settings within the application.
+
+For further exploration, visit the application at [Red de Sobrevivientes Web Application](https://red-sobrevivientes-web.netlify.app).
