@@ -1,7 +1,7 @@
 {
   "name": "Acme Corp Documentation",
   "description": "Comprehensive documentation for our awesome product suite.",
-  "theme": "crystal",
+  "theme": "crystal,
   "colors": {
     "light": "#0ab0ff",
     "dark": "#ffffff"
@@ -95,7 +95,7 @@
                 ]
               }
             ]
-          },
+          }
         ]
       }
     ]
